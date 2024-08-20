@@ -22,9 +22,9 @@ h2 {
   color: white;
 }
 
-h3{
-  color: white;}
-
+h3 {
+  color: white;
+}
 
 p {
   color: white;
@@ -137,7 +137,6 @@ p {
   background-color: #0c0c0c;
 }
 
-
 .skill {
   display: flex;
   align-items: flex-start;
@@ -177,7 +176,6 @@ p {
     margin-bottom: 10px;
   }
 }
-
 
 .icon-wrapper:hover i {
   transform: scale(1.2);
